@@ -1,4 +1,4 @@
-# EX02--Create-a-player-movement-using-character-collectable-player-health-and-score
+# EX02
 # AIM:
  To Create a player movement using character, collectable, player health and score 
  Procedure To Createand Destroythecoin:
